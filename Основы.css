@@ -1,0 +1,39 @@
+.htm{
+    width: 763px;
+background-color: orange;
+}
+.htm2{
+    width: 780px;
+    margin-top: 5px;
+background-color: orange;
+}
+.htm3{
+    width: 170px;
+    margin-top: 5px;
+background-color: orange;
+}
+
+.ht{
+    margin-top: 0px;
+}
+.hl{
+
+    color: blueviolet;
+}
+
+.kont{
+    color: blue;
+}
+
+.kont2{
+    width: 360px;
+    background-color: rgb(255, 0, 0);
+}
+
+.kont3{
+    color: rgb(4, 255, 0);
+}
+
+.name{
+    margin-top: 30px;
+}
